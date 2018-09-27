@@ -1,0 +1,4 @@
+`$` refer to `value of` and
+`#` refer to `number of / total number`
+`$#` refer to `The value of the total number of command line arguments passed.`
+Thus, you can use $# to check the number of arguments/parameters passed like you did and handle any unexpected situations.
