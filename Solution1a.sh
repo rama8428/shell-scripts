@@ -7,3 +7,4 @@ sum=`expr $sum + $1`
 shift
 done
 echo $sum
+echo "Bye Bye"
